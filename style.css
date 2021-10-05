@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', Helvetica, monospace;
+    font-size: '12px';
+    margin: 0px;
+    padding:0px;
+    color: rgb(3, 0, 0);
+}
+.stretch {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top:0;
+    left:0;
+}
+.imgOver {
+    width: 30%;
+    height: 40px;
+    position: absolute;
+    top: 0px;
+    left: 40%;
+}
+#header {
+    font-size: 24px;
+    font-family: Georgia;
+    font-weight: bold;
+    padding-left: 45%;
+    width: 50%;
+    text-shadow: 3px 3px #999999;
+
+}
+.topLeft{
+    width: 40%;
+    height: 160px;
+    position: relative;
+    top:0;
+    left:15%;
+}
+.topLeft2 {
+    position: absolute;
+    top: 0px;
+    left: 15%;
+}
+#topLeftText {
+    position: absolute;
+    top: 0px;
+    left: 42%;
+    font-size: 60px;
+    color: red;
+}
+.right {
+    width: 25%;
+    position: absolute;
+    left:55%;
+}
+.topRight {
+    position: absolute;
+    width: 25%;
+    left:55%;
+}
+.Info{
+    position: absolute;
+    left:56%;
+    top: 170%;
+}
+.mainbox {
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 39%;
+    height: 100%;
+    background: #EEEEEE;
+    border-radius: 20px;
+    
+}
+.box{
+    margin-top: 20px;
+    height: 150px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    background: white;
+}
+
+#par {
+    padding-left: 20px;
+
+}
+
+.icon {
+    
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.icon-name {
+
+}
